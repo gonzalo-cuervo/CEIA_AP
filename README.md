@@ -1,2 +1,2 @@
 # CEIA_AP
-Trabajos Prácticos para Analisis Profundo CEIA
+Trabajos Prácticos para Aprendizaje Profundo CEIA
